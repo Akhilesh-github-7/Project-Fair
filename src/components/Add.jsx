@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from 'react'
 import { Button, Modal } from 'react-bootstrap';
-import uploadProjectImg from '../assets/uploadProjectImg.png'
+import uploadProjectImg from '../assets/UploadProjectImg.png'
 import { addProjectAPI } from '../services/allAPI';
 import { addProjectResponseContext } from '../contexts/ContextApi';
 
